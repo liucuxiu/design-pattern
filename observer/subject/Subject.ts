@@ -1,4 +1,4 @@
-import { Observer } from './Observer';
+import { Observer } from '../observer/Observer';
 
 export abstract class Subject {
   private observerList: Observer[]= []

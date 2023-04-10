@@ -1,6 +1,6 @@
-import { Stock } from './Stock';
-import { StatusBar } from './StatusBar';
-import { StockListView } from './StockListView';
+import { Stock } from './subject/Stock';
+import { StatusBar } from './observer/StatusBar';
+import { StockListView } from './observer/StockListView';
 
 const stock = new Stock()
 const statusBar = new StatusBar()
