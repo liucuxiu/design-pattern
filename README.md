@@ -5,4 +5,4 @@ strategy pattern
 
 mediator pattern
 
-memento pattern
+memento pattern 
