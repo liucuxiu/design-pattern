@@ -8,7 +8,7 @@ const history = new History()
 editor.content = 'a'
 history.push(editor.createState())
 
-editor.content = 'b1'
+editor.content = 'b'
 history.push(editor.createState())
 
 editor.content = 'c'
