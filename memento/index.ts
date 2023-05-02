@@ -5,7 +5,7 @@ const editor = new Editor()
 const history = new History()
 
 
-editor.content = 'abv'
+editor.content = 'a'
 history.push(editor.createState())
 
 editor.content = 'b'
