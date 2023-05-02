@@ -1,0 +1,4 @@
+observer pattern
+
+
+strategy pattern
